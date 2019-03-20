@@ -10,6 +10,7 @@ import java.lang.Math;
 public class Dice
 {
     // instance variables - replace the example below with your own
+    //change
     private int faceUp;
 
     /**
